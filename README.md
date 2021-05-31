@@ -11,3 +11,6 @@ Emphasis on the following Javascript / CSS Skills:
     - CSS Grid
     - MVC Pattern
     - Block Element Modifier
+
+## Live Example
+A live demo of this project can be found here: https://tic-tac-toe-3000.netlify.app/
